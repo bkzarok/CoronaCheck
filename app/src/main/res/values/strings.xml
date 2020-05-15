@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CoronaCheck</string>
+    <string name="tab_text_1">Questionnaire</string>
+    <string name="tab_text_2">Contagion Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Contagion_map_hello"> Place google maps contagion spread map here</string>
+    <string name="Question1">Do you have a cough without a known cause? YES/NO</string>
+    <string name="Question1a">If YES: When did the cough start? How long have you had it? (within the last week? Month? 6 months? Year? Longer than a year?) -- YES/NO</string>
+    <string name="Question2">Do you have shortness of breath without a known cause? -- YES/NO</string>
+    <string name="Question3">Do you have malaise (a vague feeling of bodily discomfort)? -- YES/NO</string>
+    <string name="Question4">Do you have fever (temperature > 100.40 F or 380 C) or fever symptoms (chills, etc)? -- YES/NO</string>
+    <string name="Question5">Has anyone close to you experienced any of the above symptoms within the last 14 days? -- YES/NO</string>
+    <string name="Question6">Have you or someone close to you traveled internationally or on a cruise within the last 14 days? -- YES/NO</string>
+    <string name="Question7">Have you or someone close to you traveled internationally or on a cruise within the last 14 days? -- YES/NO</string>
+    <string name="yes_no">YES/NO</string>
+
+</resources>
